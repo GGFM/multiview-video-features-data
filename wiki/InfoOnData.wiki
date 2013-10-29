@@ -4,7 +4,7 @@ Obtaining the data.
 There are two ways:
 
 * The entire dataset (3G compressed) is available from the UCI Machine Learning Repository.
-http://archive.ics.uci.edu/ml/datasets.html    (under the name YouTube Video Games Data)
+http://archive.ics.uci.edu/ml/datasets.html    (under the name "YouTube Multiview Video Games Data")
 
 * [https://docs.google.com/a/google.com/document/d/1LA4NH5vihS-T8_h-T6XMtkXr1Dd6FFsToIJ882he7GU/  This document contains pointers to obtain the data in smaller chunks. ] 
 
