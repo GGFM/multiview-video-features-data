@@ -1,8 +1,8 @@
 #labels readme
-The whole dataset is also available from the UCI Machine Learning Repository.
+The entire dataset (3G compressed) is also available from the UCI Machine Learning Repository.
 http://archive.ics.uci.edu/ml/datasets.html
 
-[https://docs.google.com/a/google.com/document/d/1LA4NH5vihS-T8_h-T6XMtkXr1Dd6FFsToIJ882he7GU/  This document contains pointers to partitions of the data ] 
+[https://docs.google.com/a/google.com/document/d/1LA4NH5vihS-T8_h-T6XMtkXr1Dd6FFsToIJ882he7GU/  This document contains pointers to obtain the data in smaller chunks. ] 
 
 -----------
 
