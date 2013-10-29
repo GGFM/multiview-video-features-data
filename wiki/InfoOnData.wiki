@@ -1,6 +1,12 @@
 #labels readme
-This dataset is also available from the UCI Machine Learning Repository.
+
+
+
+The whole dataset is also available from the UCI Machine Learning Repository.
 http://archive.ics.uci.edu/ml/datasets.html
+
+[https://docs.google.com/a/google.com/document/d/1LA4NH5vihS-T8_h-T6XMtkXr1Dd6FFsToIJ882he7GU/edit This document contains pointers to partitions of the data ] 
+https://docs.google.com/a/google.com/document/d/1LA4NH5vihS-T8_h-T6XMtkXr1Dd6FFsToIJ882he7GU/edit
 
 README:
 
@@ -253,4 +259,3 @@ vision_hist_motion_estimate (which has 64 dimensions only), committee
 of 10 perceptrons, each taking multiple passes over training data,
 obtains around 0.11 Max F1 (linear SVM with C=1 obtains 0.076), and a
 random forest classifier containing 50 trees obtains 0.16.
-
