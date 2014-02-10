@@ -10,7 +10,6 @@ http://archive.ics.uci.edu/ml/datasets.html    (under the name "YouTube Multivie
 
 README:
 
-
 This dataset consists of feature values and class labels for about
 120,000 videos (instances). Each instance is described by up to 13
 feature types, from 3 high level feature families: textual, visual,
